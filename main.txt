@@ -29,6 +29,10 @@ void printArr(int arr[], int size) {
     }
 }
 
+//Br2
+void xyz(){
+//text code
+}
     int main()
     {
         int arr[] = { 64, 34, 25, 12, 22, 11, 90 };
